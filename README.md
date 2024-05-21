@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bargoszkurek
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on CSS
+- 📫 How to reach me create a Python calculator with me
+- 😄 Pronouns: Python apps
+- ⚡ Fun fact: i'am Programmer in CSS, HTML and Python
